@@ -12,17 +12,19 @@
 -->
 ![Alt banner-thin](https://github.com/OpenNullanoid/branding-repo/blob/main/banner/thin/opennullanoid-reborn-banner-thin.png?raw=true)
 
-## Welcome to the OpenNullanoid!
-Unleashing creativity using the power of open-source and collaboration!
+## Welcome to OpenNullanoid!
 
-Here we like to create great floss games and as well as software and resources for developers and users alike.
+Unleash your creativity with the power of open-source and collaboration!
 
-### The goals
-+ To be a independent game-developer making simple and complex games.
-+ Promote free software as well as REUSE-Compliance
-+ Promote free content made licenced under Creative Commons
-+ Creating high-quality content and making it free.
+At OpenNullanoid, we are passionate about creating fantastic open-source games, software, and resources for developers and users alike.
+
+### Our Goals
+- We strive to be an independent game developer, creating both simple and complex games.
+- We are committed to promoting free software and ensuring REUSE compliance.
+- We encourage the use of Creative Commons licenses for free content creation.
+- We are dedicated to producing high-quality content and making it freely available.
 
 ### Contribution Guidelines
-If you want to sign up to be a internal contributor or a maintainer, then mail the owner or the maintainers of this organization.
+If you are interested in becoming an internal contributor or a maintainer, please reach out to the owner or maintainers of this organization via email.
 
+Feel free to join us on our journey of open-source creativity and collaboration!
