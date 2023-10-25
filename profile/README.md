@@ -14,17 +14,15 @@
 
 ## Welcome to OpenNullanoid!
 
-Unleash your creativity with the power of open-source and collaboration!
+Unleashing creativity while remaining transparent.
 
-At OpenNullanoid, we are passionate about creating fantastic open-source games, software, and resources for developers and users alike.
+At OpenNullanoid, we are passionate about tools, frameworks and guides to accelerate game development and creating great games to share with everyone while remaining transparent about who we are and what we are doing.
 
-### Our Goals
-- We strive to be an independent game developer, creating both simple and complex games.
-- We are committed to promoting free software and ensuring REUSE compliance.
-- We encourage the use of Creative Commons licenses for free content creation.
-- We are dedicated to producing high-quality content and making it freely available.
 
 ### Contribution Guidelines
 If you are interested in becoming an internal contributor or a maintainer, please reach out to the owner or maintainers of this organization via email.
 
-Feel free to join us on our journey of open-source creativity and collaboration!
+Feel free to join us on our journey of creativity and collaboration!
+
+> [!NOTE]  
+> We are currently working on an wiki page to help development of future projects.
