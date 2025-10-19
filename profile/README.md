@@ -1,4 +1,6 @@
 
+> [!IMPORTANT]
+> We'll be **closing down** the OpenNullanoid organization due to lack of activity and changes in interests. There is a possiblity of another studio emerging but the projects and the resources would be **archived for referencial purposes**. *The fundamental dreams and goals for a project like this still lives on but we may need to take an different approach this time around.* 
 
 <!--
 
@@ -17,12 +19,3 @@
 Unleashing creativity while remaining transparent.
 
 At OpenNullanoid, we are passionate about tools, frameworks and guides to accelerate game development and creating great games to share with everyone while remaining transparent about who we are and what we are doing.
-
-
-### Contribution Guidelines
-If you are interested in becoming an internal contributor or a maintainer, please reach out to the owner or maintainers of this organization via email.
-
-Feel free to join us on our journey of creativity and collaboration!
-
-> [!NOTE]  
-> We are currently working on an wiki page to help development of future projects.
